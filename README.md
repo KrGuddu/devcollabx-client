@@ -1,6 +1,11 @@
-# 🚀 DevCollabX
+<h1 align="center">
+  <img src="https://your-icon-url.com/favicon.ico](https://drive.google.com/file/d/1YJkdA3NNnL6WiPSCAIpxZXKdEv0NZEtE/view?usp=drive_link" width="30" /> DevCollabX
+</h1>
 
+## 🚀 Live Demo
 🔗 Live Demo: https://devcollabx-client.onrender.com/
+
+## 📂 GitHub Repository
 📦 Client Repo: https://github.com/KrGuddu/devcollabx-client  
 📦 Server Repo: https://github.com/KrGuddu/devcollabx-server  
 
