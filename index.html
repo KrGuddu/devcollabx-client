@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+
+    <!-- Primary SEO -->
+    <title>DevCollabX – Real-Time Collaborative Code Editor</title>
+    <meta
+      name="description"
+      content="DevCollabX is a real-time collaborative code editor. Collaborate, code, and run programs instantly with your team. "
+    />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Open Graph (social sharing previews) -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="DevCollabX – Real-Time Collaborative Code Editor" />
+    <meta
+      property="og:description"
+      content="Write and run code together in real-time. Share a room ID and start collaborating instantly."
+    />
+
+    <!-- Performance: preconnect to Socket.IO backend to reduce handshake latency -->
+    <link rel="preconnect" href="https://realtime-code-editor-run.onrender.com" />
+
+    <!-- Theme color for mobile browsers (matches dark sidebar bg) -->
+    <meta name="theme-color" content="#0d1117" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
